@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>539128019952-e6s6p12rtkpqns6cbvihrqr5dincnt86.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.539128019952-e6s6p12rtkpqns6cbvihrqr5dincnt86</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDx2jXhgo3L-R2I9KZXhiGBWtwLXLNq5kk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>539128019952</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sueko14.kboycoriander</string>
+	<key>PROJECT_ID</key>
+	<string>kboy-coriander</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kboy-coriander.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:539128019952:ios:43a423abde5790ff68bb35</string>
+	<key>DATABASE_URL</key>
+	<string>https://kboy-coriander.firebaseio.com</string>
+</dict>
+</plist>
